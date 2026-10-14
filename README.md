@@ -9,16 +9,14 @@
 <img src="https://komarev.com/ghpvc/?username=isaasanchez&style=flat-square&color=2c5364&label=PROFILE+VIEWS" alt="Profile views" /> </div>
 👋 About me
 <table> <tr> <td>
-🎓 Bachelor's student in Computer Science at the University of Costa Rica (UCR)
-💻 Currently working with Java and Python
-🌱 Learning JavaScript and C# next
-🤝 Open to learning, collaborating and meeting people in tech
-📍 Costa Rica 🇨🇷
+Bachelor's student in Computer Science at the University of Costa Rica (UCR)
+Open to learning, collaborating and meeting people in tech
+Costa Rica 🇨🇷
 </td> </tr> </table>
-🛠️ Tech stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,py,git,github,vscode&perline=5" alt="Tech stack" /> </div>
-🌱 Currently learning
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,cs&perline=2" alt="Learning" /> </div>
-📊 GitHub stats
+currently working with
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,py,git,github,vscode&perline=5&theme=light" alt="Tech stack" /> </div>
+currently learning
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,cs&perline=2&theme=light" alt="Learning" /> </div>
+stats
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=isaasanchez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaasanchez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" /> </div>
 
