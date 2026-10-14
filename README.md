@@ -1,22 +1,18 @@
-<div align="left"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Isa%20S%C3%A1nchez&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Universidad%20de%20Costa%20Rica&descAlignY=58&descSize=18" alt="Banner" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Isa+%F0%9F%91%8B;Computer+Science+student+at+UCR;Learning+something+new+every+day;Let's+build+cool+things" alt="Typing SVG" /> <br/>
+<div align="left">
+Hi, I'm Isa 👋
 
+Computer Science student at the University of Costa Rica 🇨🇷
 
+<a href="https://www.linkedin.com/in/isabella-s%C3%A1nchez-877702310"><img src="https://raw.githubusercontent.com/sarthak77/sarthak77/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn" height="40"></a>   <a href="https://www.instagram.com/isasanchez_/"><img src="https://raw.githubusercontent.com/sarthak77/sarthak77/master/icons/icons8-instagram-48.png" alt="Instagram" height="40"></a>   <a href="mailto:isabellasancastro@gmail.com"><img src="https://raw.githubusercontent.com/sarthak77/sarthak77/master/icons/icons8-gmail-48.png" alt="Gmail" height="40"></a>
 
-<br/><br/>
-<a href="https://www.linkedin.com/in/isabella-sánchez-877702310"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://www.instagram.com/isasanchez_/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-instagram-48.png" alt="Instagram"></a> &nbsp; &nbsp;
-<a href="mailto:isabellasancastro@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
-
+</div>
 👋 About me
-<table> <tr> <td>
 Bachelor's student in Computer Science at the University of Costa Rica (UCR)
 Open to learning, collaborating and meeting people in tech
-Costa Rica 🇨🇷
-</td> </tr> </table>
-currently working with
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,py,git,github,vscode&perline=5&theme=light" alt="Tech stack" /> </div>
-currently learning
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,cs&perline=2&theme=light" alt="Learning" /> </div>
-stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=isaasanchez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaasanchez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" /> </div>
-
+Based in Costa Rica 🇨🇷
+💻 Currently working with
+<img src="https://skillicons.dev/icons?i=java,py,git,github,vscode&perline=5&theme=light" alt="Tech stack" />
+🌱 Currently learning
+<img src="https://skillicons.dev/icons?i=js,cs&perline=2&theme=light" alt="Learning" />
+📊 Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=isaasanchez&show_icons=true&theme=graywhite&hide_border=false&border_color=e1e4e8&border_radius=12&icon_color=57606a&title_color=24292f&text_color=57606a" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaasanchez&layout=compact&theme=graywhite&hide_border=false&border_color=e1e4e8&border_radius=12&title_color=24292f&text_color=57606a" alt="Top languages" />
