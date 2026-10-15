@@ -33,5 +33,5 @@
 #### stats
  
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=isaasanchez&show_icons=true&theme=graywhite&hide_border=false&border_color=e1e4e8&border_radius=12&icon_color=57606a&title_color=24292f&text_color=57606a" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaasanchez&layout=compact&theme=graywhite&hide_border=false&border_color=e1e4e8&border_radius=12&title_color=24292f&text_color=57606a" alt="Top languages" />
+
  
