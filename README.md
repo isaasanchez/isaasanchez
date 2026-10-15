@@ -5,7 +5,7 @@
 
  
 <br/>
-<img src="https://img.shields.io/badge/UCR-Computer%20Science-green?style=flat-square" alt="UCR Computer Science" />
+<img src="https://img.shields.io/badge/UCR-Computer%20Science-blue?style=flat-square" alt="UCR Computer Science" />
 <a href="https://www.chess.com/member/isasanxhez"><img src="https://img.shields.io/badge/Chess.com-isasanxhez-green?style=flat-square&logo=chessdotcom&logoColor=white" alt="Chess.com" /></a>
 <img src="https://img.shields.io/badge/Based%20in-Costa%20Rica-red?style=flat-square" alt="Costa Rica" />
 </div>
